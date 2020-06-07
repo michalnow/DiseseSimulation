@@ -1,2 +1,0 @@
-# DiseseSimulation
-Created with CodeSandbox
